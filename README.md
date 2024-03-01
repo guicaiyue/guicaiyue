@@ -61,6 +61,13 @@
   
 ### 🏢 Work Experience
 
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/yuanze.png" />
+
+- [北京原则科技有限公司](https://lusun.com/) &emsp; 📌 2024-03-04 —— Now
+  
+  - 工作岗位：软件工程师
+  - 工作内容：创业
+
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/tuhui.png" />
 
 - [广州图慧信息科技有限公司](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— 2024-01-19
