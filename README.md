@@ -58,27 +58,18 @@
 
 ### 🏢 Work Experience
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/guicaiyue/guicaiyue/assets/images/yuanze.png" />
 
-- [北京原则科技有限公司](https://lusun.com/) &emsp; 📌 2024-03-04 —— Now
+- [深圳市中智信融资担保有限公司]() &emsp; 📌 2022-04-19 —— Now
 
-  - 工作岗位：软件工程师
-  - 工作内容：创业
+  - 工作岗位：JAVA 开发工程师
+  - 工作内容：安全建设
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/guicaiyue/guicaiyue/assets/images/tuhui.png" />
 
-- [广州图慧信息科技有限公司](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— 2024-01-19
+- [潭州教育](https://www.tanzhouedu.com/) &emsp; 📌 2020-11-09 —— 2022-03-15
 
-  - 工作岗位：Web 前端开发工程师
-  - 工作内容：杂活
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/guicaiyue/guicaiyue/assets/images/nio.png" />
-
-- [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-12
-
-  - 工作岗位：Web 前端开发实习生
-  - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
-
+  - 工作岗位：JAVA 开发工程师
+  - 工作内容：基础服务建设
+ 
 </td></tr>
 
 <tr><td>
@@ -136,55 +127,6 @@
 
 </td></tr>
 
-<tr><td>
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                481 commits         ███████░░░░░░░░░░░░░░░░░░   27.66 % 
-🌆 Daytime                540 commits         ████████░░░░░░░░░░░░░░░░░   31.05 % 
-🌃 Evening                425 commits         ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
-🌙 Night                  293 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   159 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Tuesday                  141 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Wednesday                250 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Thursday                 229 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Friday                   563 commits         ████████░░░░░░░░░░░░░░░░░   32.37 % 
-Saturday                 146 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-Sunday                   251 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Git Config               9 mins              █████████░░░░░░░░░░░░░░░░   37.44 % 
-JavaScript               4 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Markdown                 3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Other                    3 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-SSH Key                  3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-
-🔥 Editors: 
-VS Code                  26 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      26 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 05/03/2024 01:13:51 UTC
-<!--END_SECTION:waka-->
-
-</td></tr>
-
 </table>
 
 
@@ -213,11 +155,6 @@ Mac                      26 mins             ███████████�
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=guicaiyue&theme=default&hide_border=true" />
 </picture>
 <img align="right" width="150"  src="https://cdn.jsdelivr.net/gh/guicaiyue/guicaiyue/assets/images/right.png" />
-
-<!-- metrics 基础资料 -->
-<img width="150" src="https://cdn.jsdelivr.net/gh/guicaiyue/guicaiyue/assets/images/cxyduck.gif" />&emsp;
-<img src="https://cdn.jsdelivr.net/gh/guicaiyue/guicaiyue/github-metrics/base.svg" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/guicaiyue/guicaiyue/assets/images/cxyduck.gif" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
